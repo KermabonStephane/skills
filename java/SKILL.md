@@ -55,11 +55,11 @@ Always use the **Spock Framework** for all tests.
 ## 🛠️ Project Templates
 
 - **Maven Standalone POM**: Modern `pom.xml` for single-module projects.
-  `/Users/stephanekermabon/.gemini/antigravity/skills/java/templates/pom.xml`
+  `/./templates/pom.xml`
 - **Maven Parent POM**: Multi-module parent configuration.
-  `/Users/stephanekermabon/.gemini/antigravity/skills/java/templates/pom-parent.xml`
+  `./templates/pom-parent.xml`
 - **Maven Module POM**: Individual module configuration inheriting from parent.
-  `/Users/stephanekermabon/.gemini/antigravity/skills/java/templates/pom-module.xml`
+  `./templates/pom-module.xml`
 
 ## 📂 Standard Project Structure
 ```

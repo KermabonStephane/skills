@@ -58,6 +58,16 @@ Always use **Spock Framework** for testing Spring Boot applications.
 -   **Immutability**: Use Java Records for all DTOs, API models, and Event payloads.
 -   **Lean Controllers**: Keep business logic in Services or Use Cases; Controllers only handle request/response mapping.
 
+## 🛠️ Project Templates
+
+- **Maven Standalone POM**: Modern `pom.xml` for single-module projects.
+  `./templates/pom.xml`
+- **Maven Parent POM**: Multi-module parent configuration.
+  `./templates/pom-parent.xml`
+- **Maven Module POM**: Individual module configuration inheriting from parent.
+  `./templates/pom-module.xml`
+
+
 ## 📂 Standard Project Structure (Modulithic)
 ```
 src/main/java/com/example/app/
