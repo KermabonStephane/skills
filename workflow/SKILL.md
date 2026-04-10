@@ -118,6 +118,7 @@ Same as commit: `<type>(<scope>): <short summary>` — it becomes the squash-mer
 - [ ] Self-reviewed the diff — no debug logs, no commented-out code
 - [ ] PR description explains *why*, not just *what*
 - [ ] Linked to the relevant issue (`Closes #n`)
+- [ ] The changelog is updated
 
 ## 4. Waiting for Review
 
